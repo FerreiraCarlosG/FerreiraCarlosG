@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FerreiraCarlosG
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python Language
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: @carlosg.price@gmail.com
